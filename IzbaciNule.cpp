@@ -1,5 +1,6 @@
 #include <iostream>
 
+// ZSR1 Z15
 // Napišite funkciju “IzbaciNule” koja ima kao parametar neki prirodan broj, 
 //a koja daje kao rezultat isti taj broj, samo iz kojeg su izbačene sve cifre koje su nule. 
 //Na primjer, ukoliko se kao parametar funkciji proslijedi broj 35020040, rezultat funkcije treba da bude 3524. 
